@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>墨井</title>
+    <link>http://localhost:4321</link>
+    <description>关于生活、文字与沉思的个人博客。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 06 Aug 2026 15:56:34 GMT</lastBuildDate>
+    <atom:link href="http://localhost:4321/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>放手的艺术</title>
+      <link>http://localhost:4321/posts/quiet-art-of-letting-go.html</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/quiet-art-of-letting-go.html</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <description>有一种轻盈，不是通过积累得来的，而是通过释放。我们一生花了太多时间在&quot;获取&quot;上——获取物品、获取成就、获取关系、获取记忆——却很少停下来想一想：如果只是张开双手，让风带走那些该走的，会发生什么。 这不是冷漠，而是一种信任。 紧握的重量 每一件我们拥有的物品，每一个我们滋养的怨恨，每一个我们执着不放的身份——这些都不是中性的。它们需要被关注，它们占据着本可以用来安放当下、好奇与平静的心灵空间。那抽屉里的旧信，衣柜里不再合身的衣服，文件夹里没有完成的项目——每一样都在无声地责备我们。 放手不是失去，而是腾出空间。 释放之后留下的...</description>
+      <category>生活</category>
+      <category>思考</category>
+      <category>极简</category>
+    </item>
+    <item>
+      <title>穿过旧窗的晨光</title>
+      <link>http://localhost:4321/posts/morning-light-through-old-windows.html</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/morning-light-through-old-windows.html</guid>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 GMT</pubDate>
+      <description>晨光自有其特殊之处。它不像正午的阳光那样咄咄逼人，也不像黄昏的光线那样多愁善感。它只是安静地来，不提出任何要求——不需要你变得高效，不需要你证明自己。它就这样穿过一切缝隙，落在它能找到的地方。 我已经观察晨光三个星期了。不是用仪器，不是用数据，而是用注意力。七月里早晨七点十二分的阳光怎样落在餐桌上，怎样停在书桌上空悬浮的尘埃中，怎样让最平常不过的东西——一个咖啡杯、一摞书、一把椅子的弧度——看起来都像是画中的场景。 黎明的几何学...</description>
+      <category>写作</category>
+      <category>观察</category>
+    </item>
+    <item>
+      <title>如何读一首你读不懂的诗</title>
+      <link>http://localhost:4321/posts/how-to-read-a-poem.html</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/how-to-read-a-poem.html</guid>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <description>大多数人对待诗歌，就像对待一扇上了锁的门：他们去转动门把手，发现转不动，就转身走开了。但诗歌不是锁。它更像一座花园——你不需要完全理解一座花园，也能走进去并有所感受。 第一遍：放下 在第一遍阅读时，不要试图理解任何东西。不要去查字典，不要去分析隐喻。如果可能的话，把诗读出声来，让声音冲刷过你的耳朵。诗歌在成为意义之前，首先是音乐。 去听： 句子中的节奏 重复的声音（头韵、母韵） 那些你自然停顿下来的地方 第二遍：好奇 现在你可以开始发问了。这首诗在说什么？说话的人是谁？他们站在哪里？现在是什么时辰？这些问题没有标准答案——它们是通往诗境的门。...</description>
+      <category>诗歌</category>
+      <category>阅读</category>
+      <category>文学</category>
+    </item>
+    <item>
+      <title>阳光的岁月</title>
+      <link>http://localhost:4321/posts/yangguang-de-suiyue.html</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/yangguang-de-suiyue.html</guid>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
+      <description>阳光是有年纪的。春天的阳光像十七八岁的少年，明亮而不知疲倦，照在刚抽芽的枝头，照在路边的水洼里，照在每一个愿意抬头的人脸上。它不问你从哪里来，也不问你将要到哪里去，它只是慷慨地洒下来，像是这世上最不需要理由的善意。 我常在午后坐在阳台的藤椅上，什么也不做。手里或许有一本书，但更多时候书是倒扣在膝盖上的。阳光从西南方向斜斜地打过来，在木地板上画出一个温暖的长方形。猫就卧在那个长方形里，眯着眼睛，尾巴偶尔懒懒地甩一下。...</description>
+      <category>生活</category>
+      <category>时光</category>
+    </item>
+    <item>
+      <title>等待花开</title>
+      <link>http://localhost:4321/posts/dengdai-huakai.html</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/dengdai-huakai.html</guid>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 GMT</pubDate>
+      <description>阳台上那盆栀子花，我已经养了整整一年。刚搬回来的时候，它只有几片瘦弱的叶子，在花市角落里无人问津。我把它放在阳光最好的位置，每天浇水，跟它说话，像一个过分焦虑的新手父母。但它并不着急——它按照自己的节奏，慢慢地长根，慢慢地抽芽，慢慢地酝酿一个我完全看不见的花苞。 等待花开是一门快要失传的手艺。 我们活在一个被&quot;即时&quot;宠坏的时代。消息秒回，外卖半小时送到，视频两倍速播放。我们已经不太习惯把一件事交给时间，耐心地、信任地、不催促地等。 可是有些东西，催不得。...</description>
+      <category>自然</category>
+      <category>等待</category>
+      <category>生活</category>
+    </item>
+    <item>
+      <title>寻找净土</title>
+      <link>http://localhost:4321/posts/xunzhao-jingtu.html</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/xunzhao-jingtu.html</guid>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+      <description>去年秋天，我去了川西。不是跟着旅行团，也没有做详细的攻略，只是在地图上随便指了一个名字好听的地方，就买了车票。 车从成都出发，一路向西。城市渐渐退去，取而代之的是连绵的山峦和越来越稀薄的空气。到了海拔三千多米的时候，天空蓝得有些不真实，像是被谁用最高饱和度的颜料涂抹过。远处的雪山沉默地站着，我忽然意识到，在这片土地上，它们是比人类更古老的居民。 &quot;我们不是在寻找一个地方，而是在寻找一种状态。&quot; 很多人去旅行，是为了逃离——逃离工作，逃离城市，逃离那个让自己疲惫的身份。但这其实是一个悖论：你逃得再远，如果心里乱七八糟，走到哪里都是喧嚣的。...</description>
+      <category>旅行</category>
+      <category>精神</category>
+      <category>思考</category>
+    </item>
+    <item>
+      <title>音乐与记忆</title>
+      <link>http://localhost:4321/posts/yinyue-yu-jiyi.html</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/yinyue-yu-jiyi.html</guid>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 GMT</pubDate>
+      <description>有些歌你不敢随便点开。不是因为它不好听，而是因为它太好了——好到每一次播放，都像打开一扇通往过去的门。 高二那年的寒假，我有一台旧旧的MP3播放器，里面只装得下两百首歌。那两百首歌被我来回听了整整一个冬天。每一首歌都和一个具体的场景绑定在一起：早晨六点半骑车去学校的路上耳机里放的那首，晚自习后在操场上一个人走圈时听的那首，除夕夜里窗外全是烟花声时躲在被窝里单曲循环的那首。...</description>
+      <category>音乐</category>
+      <category>记忆</category>
+      <category>生活</category>
+    </item>
+    <item>
+      <title>城市的心跳</title>
+      <link>http://localhost:4321/posts/chengshi-de-xintiao.html</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/chengshi-de-xintiao.html</guid>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
+      <description>凌晨四点，城市还没有醒来，但它已经在呼吸了。如果这时候你站在随便哪一栋高楼的顶层往下看，你会看到路灯连成的金色脉络，零星的出租车像红细胞一样在血管般的街道中缓慢移动。远处的第一班地铁已经开始试跑，轮轨摩擦的声音在空旷的隧道里回荡，像这座城市在清嗓子。 我搬来这座城市六年了。前三年我恨它——太吵、太快、太冷漠。人与人之间的距离精确得像用尺子量过，近到可以听到彼此的呼吸，远到永远不会真正认识。 但后来我渐渐发现，城市有自己的温柔。...</description>
+      <category>城市</category>
+      <category>观察</category>
+      <category>写作</category>
+    </item>
+    <item>
+      <title>读书笔记：时间的玫瑰</title>
+      <link>http://localhost:4321/posts/dushu-biji.html</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/dushu-biji.html</guid>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 GMT</pubDate>
+      <description>&quot;时间的玫瑰&quot;这个意象，来自北岛翻译的一本诗集的标题。起初我并不完全理解这四个字的含义——时间是无形的，玫瑰是具体的，它们被放在一起，像是一个谜语。 后来我读到里尔克的诗句：&quot;一朵玫瑰，就是所有的玫瑰。&quot;忽然间有些明白了。时间本身是空洞的，但正是那些被时间雕刻过的事物——一首诗、一幅画、一段感情、一个承诺——赋予了它以形状和香气。时间开出了花。 重读北岛的那本译诗集，是在一个冬日的下午。窗外阴沉沉的，屋里开着暖黄色的台灯。我泡了一杯普洱，翻开书页，一种旧书特有的、略带霉味的气息扑面而来。这本书在我的书架上已经放了快十年，纸张的边缘已经开始泛黄。...</description>
+      <category>阅读</category>
+      <category>文学</category>
+      <category>思考</category>
+    </item>
+    <item>
+      <title>秋日随笔</title>
+      <link>http://localhost:4321/posts/qiuri-suiyue.html</link>
+      <guid isPermaLink="true">http://localhost:4321/posts/qiuri-suiyue.html</guid>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
+      <description>秋天是悄悄来的。它不像春天那样大张旗鼓地用满树的花宣告自己的到来，也不像夏天那样用灼热的日光刷存在感。它只是在某一个早晨，让你忽然觉得——该加一件外套了。 我最喜欢秋天的光线。那是倾斜的、温软的、带着金色调的光，像被谁用蜂蜜稀释过。傍晚五点钟，阳光穿过行道树的缝隙，在马路上洒下一地碎金。踩上去有一种说不清的仪式感，仿佛走在一条通往什么重要地方的路上。 &quot;秋天的美，在于它从不刻意挽留什么。&quot;...</description>
+      <category>秋天</category>
+      <category>随笔</category>
+      <category>生活</category>
+    </item>
+  </channel>
+</rss>
