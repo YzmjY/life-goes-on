@@ -1,0 +1,17 @@
+{
+  "name": "inkwell",
+  "version": "1.0.0",
+  "description": "A Markdown static blog generator",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "drafts": "node build.js --drafts",
+    "dev": "node serve.js",
+    "serve": "node serve.js --dist",
+    "clean": "node -e \"const{rmSync,existsSync}=require('fs');if(existsSync('dist')){rmSync('dist',{recursive:true,force:true});console.log('dist/ removed')}\""
+  },
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}

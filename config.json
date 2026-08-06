@@ -1,0 +1,25 @@
+{
+  "site": {
+    "title": "墨井",
+    "subtitle": "Life Goes On",
+    "description": "关于生活、文字与沉思的个人博客。",
+    "url": "http://localhost:4321",
+    "language": "zh-CN",
+    "author": {
+      "name": "墨井",
+      "email": "author@example.com"
+    }
+  },
+  "build": {
+    "postsPerPage": 8,
+    "dateFormat": "yyyy年MM月dd日",
+    "excerptLength": 280
+  },
+  "navigation": [
+    { "label": "首页", "href": "/" },
+    { "label": "归档", "href": "/archive.html" },
+    { "label": "合集", "href": "/series.html" },
+    { "label": "标签", "href": "/tags.html" },
+    { "label": "关于", "href": "/about.html" }
+  ]
+}
