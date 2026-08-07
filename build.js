@@ -354,8 +354,7 @@ function build(options = {}) {
 
   for (const tag of Object.keys(allTags)) {
     const tagPosts = listedPosts.filter(p => p.tags && p.tags.includes(tag));
-    const tagFile = /^[a-zA-Z0-9_-]+$/.test(tag) ? tag : encodeURIComponent(tag);
-    writeDist(`tags/${tagFile}.html`, tpl.tagPage(config, tag, tagPosts));
+    writeDist(`tags/${tag}.html`, tpl.tagPage(config, tag, tagPosts));
   }
 
   // ─── Series ───────────────────────────────────────────────────────
